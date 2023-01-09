@@ -19,6 +19,5 @@
   <a href = "mailto:kaue.silva@philips.com"><img src="https://img.shields.io/badge/-Email-%23333?style=plastic&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaue-p-da-silva-88881480" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  
-  ![Snake animation](https://github.com/KaueSilvaPhilips/KaueSilvaPhilips/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
